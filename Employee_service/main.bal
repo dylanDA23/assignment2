@@ -18,6 +18,10 @@ type Employee record{|
 dsfsgerwre
 
 
+
+dfdiettop
+
+
 // Employee
 // Create their KPIs
 // Grade their Supervisor
